@@ -1,4 +1,4 @@
 <resources>
     <string name="app_name">TpAndroid6</string>
-    <string name="bonjour">Bonjour le monde</string>
+    <string name="bonjour">Hello World !</string>
 </resources>
